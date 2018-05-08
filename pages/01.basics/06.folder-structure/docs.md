@@ -57,7 +57,7 @@ The `system` folder is where the files that make Grav actually function live.  Y
 
 The `vendor` folder contains important libraries that Grav relies on.  This folder is similar to the `system` folder in that its contents should not be edited unless you're really sure you know what you're doing.
 
-**(v0.9.2+)**  If you [installed](../installation) Grav from GitHub, the `vendor` folder won't have been installed with it. In order to create and populate the vendor folder you will have to run `bin/grav install` or `composer install` from the root of your Grav instance. More details can be found under the [installation](../installation) section.
+**(v0.9.2+)**  If you [installed](../installation) Grav from GitHub, the `vendor` folder won't have been installed with it. In order to create and populate the vendor folder you will have to run `bin/grav install` or `composer install` from the root of your Grav instance. More details can be found in the [installation](../installation) section.
 
 ### /user
 
@@ -78,7 +78,7 @@ The `accounts` folder is where you will define user accounts if access restricti
 
 ### /user/config
 
-The [files in the config directory](../grav-configuration) are used to configure the web site and have been discussed in the previous chapter.
+The [files in the config directory](../grav-configuration) are used to configure the website and have been discussed in the previous chapter.
 
 ### /user/data
 
